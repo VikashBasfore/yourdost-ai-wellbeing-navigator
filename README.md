@@ -20,6 +20,17 @@ Users describe what they are experiencing in natural language. The application a
 
 **The goal:** Make employee wellbeing support easier to understand and access.
 
+## 🖥️ Application Screenshots
+
+### Home Page
+![YourDOST Home Page]("Screenshots\home.png")
+
+### Personalised AI Recommendations
+![AI Recommendations](screenshots/recommendations.png)
+
+### Crisis Support and Safety
+![Crisis Support](screenshots/crisis-support.png)
+
 ## 🎯 Key Features
 
 - **Conversational Wellbeing Check-in:** Employees describe their concerns using natural language.
