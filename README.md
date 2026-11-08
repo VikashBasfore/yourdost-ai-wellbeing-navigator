@@ -28,7 +28,7 @@ Users describe what they are experiencing in natural language. The application a
 
 ### Personalised AI Recommendations
 
-![AI Recommendations](./screenshots/recommendations.png)
+![AI Recommendations](./screenshots/Recommendations.png)
 
 ### Crisis Support and Safety
 
