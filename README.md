@@ -23,13 +23,16 @@ Users describe what they are experiencing in natural language. The application a
 ## 🖥️ Application Screenshots
 
 ### Home Page
-![YourDOST Home Page]("Screenshots\home.png")
+
+![YourDOST Home Page](./screenshots/home.png)
 
 ### Personalised AI Recommendations
-![AI Recommendations](screenshots/recommendations.png)
+
+![AI Recommendations](./screenshots/recommendations.png)
 
 ### Crisis Support and Safety
-![Crisis Support](screenshots/crisis-support.png)
+
+![Crisis Support](./screenshots/crisis-support.png)
 
 ## 🎯 Key Features
 
